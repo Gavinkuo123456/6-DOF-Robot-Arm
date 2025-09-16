@@ -1,0 +1,7 @@
+joint,Theta ,Theta offset,Alpha,a,d
+0,variable,0,-1.57,0,136.1
+1,variable,-1.57,0,252.625,0
+2,variable,1.57,1.57,0,0
+3,variable,0,-1.57,0,214.6
+4,variable,0,1.57,0,0
+5,variable,0,0,0,45.3
