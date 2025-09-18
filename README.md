@@ -41,7 +41,13 @@ This project features a fully functional 6-DOF robotic arm that combines:
 ### Electronics
 - **Arduino Board** Arduino mega 2560
 - **Stepper Motor Drivers** TMC2209 × 3 , LM542 x 3
-- **Stepper Motors** NEMA23x56 × 1, NEMA17x60 with 1:50 planetary gearbox x 1, NEMA17x48 with 1:27 planetary gearbox x 1, NEMA11x34 with 1:20 planetary gearbox x 1, NEMA 14x40 x 1, NEMA11x34 x 1
+- **Stepper Motors**
+--**Joint 1** NEMA23x56
+--**Joint 2** NEMA17x60 with 1:50 planetary gearbox
+--**Joint 3** NEMA17x48 with 1:27 planetary gearbox
+--**Joint 4** NEMA11x34 with 1:20 planetary gearbox
+--**Joint 5** NEMA 14x40
+--**Joint 6** NEMA11x34
 - **Power Supply** 24V 50W
 - **Jumper Wires** and **Breadboard/PCB**
 - **Limit Switches** optical endstop x 6
