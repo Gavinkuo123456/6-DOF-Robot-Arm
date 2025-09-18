@@ -46,6 +46,8 @@ This project features a fully functional 6-DOF robotic arm that combines:
 - **Jumper Wires** and **Breadboard/PCB**
 - **Limit Switches** optical endstop x 6
 
+# WIP below
+
 ### Mechanical Components
 - **3D Printed Parts** (see `/mechanical` folder)
 - **Bearings** (608ZZ or similar)
