@@ -1,4 +1,4 @@
-# cost-effective 6 DOF robotic arm
+# Cost-Effective 6 DOF robotic arm
 
 A cost-effective 6-degree-of-freedom robotic arm offering both precision and a strong load capacity for its price range.
 
