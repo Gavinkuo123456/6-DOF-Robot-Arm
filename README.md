@@ -2,7 +2,7 @@
 
 A cost-effective 6-degree-of-freedom robotic arm offering both precision and a strong load capacity for its price range.
 
-![Robot Arm CAD](/images/CADdrawing.jpg)
+![Robot Arm CAD](/Images/CADdrawing.jpg)
 
 ## 🤖 Overview
 
